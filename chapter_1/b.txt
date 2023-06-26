@@ -1,0 +1,1 @@
+we cannot write code for this question because whenever we pass an argument function recieve those value form legt to right without skipping

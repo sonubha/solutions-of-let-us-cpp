@@ -1,9 +1,17 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-int main() {
 
+void cls(){
+    getch;
+    cls
+
+
+}
+
+int main() {
 cout<<"hello world";
+cls();
 
 return 0;
 }

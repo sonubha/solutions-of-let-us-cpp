@@ -3,8 +3,7 @@ using namespace std;
 
 
 void cls(){
-    getch;
-    cls
+    
 
 
 }
